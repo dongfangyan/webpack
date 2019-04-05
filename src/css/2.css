@@ -1,0 +1,9 @@
+body{
+    background-color:cyan;
+}
+#box{
+    height: 22px;
+    width: 30px;
+    background-color: red;
+
+}
